@@ -1,4 +1,4 @@
-package factory_method.Factory;
+package Factory;
 
 import factory_method.classes.ChocolateIceCream;
 import factory_method.classes.VanillaIceCream;

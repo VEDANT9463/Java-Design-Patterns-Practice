@@ -1,5 +1,3 @@
-package singleton;
-
 public class TvRemote {
 
     public void pressPowerButton(){

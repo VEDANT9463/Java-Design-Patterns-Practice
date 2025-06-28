@@ -1,4 +1,4 @@
-package factory_method.commonInterface;
+package commonInterface;
 
 public interface IceCream {
     void eat();

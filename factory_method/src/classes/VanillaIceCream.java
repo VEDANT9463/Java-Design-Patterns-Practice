@@ -1,4 +1,4 @@
-package factory_method.classes;
+package classes;
 
 import factory_method.commonInterface.IceCream;
 

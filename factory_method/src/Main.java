@@ -1,5 +1,3 @@
-package factory_method;
-
 import factory_method.Factory.IceCreamFactory;
 import factory_method.commonInterface.IceCream;
 
