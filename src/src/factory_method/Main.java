@@ -1,5 +1,7 @@
-import Factory.IceCreamFactory;
-import commonInterface.IceCream;
+package factory_method;
+
+import factory_method.Factory.IceCreamFactory;
+import factory_method.commonInterface.IceCream;
 
 public class Main {
     public static void main(String[] args) {

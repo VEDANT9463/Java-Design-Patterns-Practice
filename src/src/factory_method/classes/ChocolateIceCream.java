@@ -1,6 +1,6 @@
-package classes;
+package factory_method.classes;
 
-import commonInterface.IceCream;
+import factory_method.commonInterface.IceCream;
 
 public class ChocolateIceCream implements IceCream {
     @Override
